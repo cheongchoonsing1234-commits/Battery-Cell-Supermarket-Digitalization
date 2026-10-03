@@ -125,7 +125,7 @@ warning instead of creating bad data.
 
 ### 3️⃣ Replenishment
 
-![Replenishment](docs/images/03-replenishment.png)
+![image alt](https://github.com/cheongchoonsing1234-commits/Battery-Cell-Supermarket-Digitalization/blob/main/Images/replenish.png?raw=true)
 
 **Purpose:** Record incoming battery cells and control FIFO.
 
@@ -155,7 +155,8 @@ age and rank matter.
 
 ### 4️⃣ Return
 
-![Return](docs/images/04-return.png)
+![image alt](https://github.com/cheongchoonsing1234-commits/Battery-Cell-Supermarket-Digitalization/blob/main/Images/return.png?raw=true)
+
 
 **Purpose:** Put unused battery cells back into stock correctly.
 
@@ -173,7 +174,7 @@ forgotten or the stock becomes inaccurate. This keeps the count honest.
 
 ### 5️⃣ Editor (Add / Edit / Delete)
 
-![Editor](docs/images/05-editor.png)
+![image alt](https://github.com/cheongchoonsing1234-commits/Battery-Cell-Supermarket-Digitalization/blob/main/Images/editor.png?raw=true)
 
 **Purpose:** Maintain the master data and correct stock when needed.
 
@@ -198,7 +199,7 @@ discontinued, no programmer is needed to update the system.
 
 ### 6️⃣ History (Records)
 
-![History](docs/images/06-history.png)
+![image alt](https://github.com/cheongchoonsing1234-commits/Battery-Cell-Supermarket-Digitalization/blob/main/Images/history.png?raw=true)
 
 **Purpose:** Full traceability of all inventory movements.
 
