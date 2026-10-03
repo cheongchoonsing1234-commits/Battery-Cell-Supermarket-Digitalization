@@ -19,10 +19,9 @@
 6. [Business Impact](#business-impact)
 7. [Technical Highlights](#technical-highlights)
 8. [Hardware Setup](#hardware-setup)
-9. [Repository Structure](#repository-structure)
-10. [How to Run the Demo](#how-to-run-the-demo)
-11. [My Role](#my-role)
-12. [Lessons Learned & Future Improvements](#lessons-learned--future-improvements)
+9. [How to Run the Demo](#how-to-run-the-demo)
+10. [My Role](#my-role)
+11. [Lessons Learned & Future Improvements](#lessons-learned--future-improvements)
 
 ---
 
@@ -255,9 +254,6 @@ discontinued, no programmer is needed to update the system.
 - 1 × barcode scanner (material scanning)
 - 1 × employee card reader (tap to capture employee ID)
 - 1 × touch screen monitor
-
-## Repository Structure
-(paste the tree from Part 4)
 
 ## How to Run the Demo
 1. Download `demo/BatteryCell_Demo.xlsm`.
