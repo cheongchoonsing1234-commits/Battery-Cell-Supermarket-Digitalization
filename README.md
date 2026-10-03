@@ -1,8 +1,6 @@
 # 🔋 Battery Cell Supermarket Digitalization
 
-> A real-time Excel VBA dashboard and transaction system that replaced manual
-> observation and handwritten records in a battery cell supermarket on a
-> production line.
+> A real-time Excel VBA dashboard and transaction system that digitalizes battery cell inventory management on a production line, replacing manual stock monitoring and handwritten records. It automates withdrawals, returns and replenishments, with dynamic stock visualization, barcode scanning, employee identification, FIFO tracking and transaction history to improve inventory accuracy, operational efficiency and traceability.
 
 ![image alt](https://github.com/cheongchoonsing1234-commits/Battery-Cell-Supermarket-Digitalization/blob/main/Images/dashboard.png?raw=true)
 
