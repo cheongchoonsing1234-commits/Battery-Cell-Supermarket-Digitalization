@@ -94,7 +94,8 @@ on someone walking around and judging by eye.
 
 ### 2️⃣ Withdrawal
 
-![Withdrawal](docs/images/02-withdrawal.png)
+![image alt](https://github.com/cheongchoonsing1234-commits/Battery-Cell-Supermarket-Digitalization/blob/main/Images/withdrawal.png?raw=true)
+
 
 **Purpose:** Record every time battery cells are taken from the supermarket.
 
