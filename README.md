@@ -69,7 +69,7 @@ immediately.
 
 ### 1️⃣ Dashboard (Chart)
 
-![Dashboard](docs/images/01-dashboard.png)
+![image alt](https://github.com/cheongchoonsing1234-commits/Battery-Cell-Supermarket-Digitalization/blob/main/Images/chart.png?raw=true)
 
 **Purpose:** Give anyone a clear view of the stock situation in seconds.
 
