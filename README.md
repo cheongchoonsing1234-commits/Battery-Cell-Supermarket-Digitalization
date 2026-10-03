@@ -264,7 +264,6 @@ discontinued, no programmer is needed to update the system.
 4. All data is **fictional**. The demo edit password is `[demo password]`.
 
 ## My Role
-[Write 3 to 5 lines. Example:]
 - Collected requirements from operators, loaders, and supervisors
 - Designed the process flow and user interface
 - Developed the full VBA application (6 modules, validation, chart)
