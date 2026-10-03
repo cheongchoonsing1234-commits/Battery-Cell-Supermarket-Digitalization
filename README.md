@@ -4,7 +4,7 @@
 > observation and handwritten records in a battery cell supermarket on a
 > production line.
 
-img width="1918" height="1090" alt="image" src="https://github.com/user-attachments/assets/d2bd8559-ba5a-4024-aa6d-893f960fe980" />
+! [image alt] img width="1918" height="1090" alt="image" src="https://github.com/user-attachments/assets/d2bd8559-ba5a-4024-aa6d-893f960fe980" />
 
 
 ---
