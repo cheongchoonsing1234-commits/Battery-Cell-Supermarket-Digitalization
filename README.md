@@ -4,7 +4,7 @@
 > observation and handwritten records in a battery cell supermarket on a
 > production line.
 
-https://github.com/cheongchoonsing1234-commits/Battery-Cell-Supermarket-Digitalization/blob/5abd2f8e1e3b0aa6ed8292121ac847994261af77/Images/dashboard.png
+Images/dashboard.png
 
 ---
 
