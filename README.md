@@ -232,7 +232,6 @@ discontinued, no programmer is needed to update the system.
 - ✅ **FIFO enforced** with a colour-sticker system
 - ✅ **Low-cost solution:** built with tools already available (Excel) plus
   basic hardware
-- 📊 **[Add your result, e.g. "reduced stock-check time from X to Y minutes"]**
 
 ## Technical Highlights
 
