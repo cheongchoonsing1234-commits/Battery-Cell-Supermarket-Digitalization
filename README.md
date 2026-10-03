@@ -14,14 +14,13 @@
 1. [Background & Problem](#background--problem)
 2. [Objective](#objective)
 3. [Solution Overview](#solution-overview)
-4. [Process Flow: Before vs After](#process-flow-before-vs-after)
-5. [System Modules](#system-modules)
-6. [Business Impact](#business-impact)
-7. [Technical Highlights](#technical-highlights)
-8. [Hardware Setup](#hardware-setup)
-9. [How to Run the Demo](#how-to-run-the-demo)
-10. [My Role](#my-role)
-11. [Lessons Learned & Future Improvements](#lessons-learned--future-improvements)
+4. [System Modules](#system-modules)
+5. [Business Impact](#business-impact)
+6. [Technical Highlights](#technical-highlights)
+7. [Hardware Setup](#hardware-setup)
+8. [How to Run the Demo](#how-to-run-the-demo)
+9. [My Role](#my-role)
+10. [Lessons Learned & Future Improvements](#lessons-learned--future-improvements)
 
 ---
 
@@ -55,14 +54,6 @@ station beside the supermarket and has a sidebar with six functions:
 Operators scan the material barcode and tap their employee card. The system
 validates the input, updates the database, and refreshes the dashboard
 immediately.
-
-## Process Flow: Before vs After
-
-| Before (manual) | After (digital) |
-|---|---|
-| ![Before](docs/images/process-flow-before.png) | ![After](docs/images/process-flow-after.png) |
-
----
 
 ## System Modules
 
@@ -274,4 +265,4 @@ discontinued, no programmer is needed to update the system.
 - Add daily/weekly usage analytics for demand forecasting
 
 ---
-👤 **Author:** [Your Name] · [LinkedIn] · [Email]
+👤 **Author:** [CHEONG CHOON SING] · [[LinkedIn](https://www.linkedin.com/in/cheong-choon-sing-19291b36a/)] · [cheongchoonsing1234@gmail.com]
