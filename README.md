@@ -15,10 +15,11 @@
 4. [System Modules](#system-modules)
 5. [Business Impact](#business-impact)
 6. [Technical Highlights](#technical-highlights)
-7. [Hardware Setup](#hardware-setup)
-8. [How to Run the Demo](#how-to-run-the-demo)
-9. [My Role](#my-role)
-10. [Lessons Learned & Future Improvements](#lessons-learned--future-improvements)
+7. [Built With Excel VBA](#built-with-excel-vBA)
+8. [Hardware Setup](#hardware-setup)
+9. [How to Run the Demo](#how-to-run-the-demo)
+10. [My Role](#my-role)
+11. [Lessons Learned & Future Improvements](#lessons-learned--future-improvements)
 
 ---
 
@@ -235,6 +236,21 @@ discontinued, no programmer is needed to update the system.
 | **Data protection** | Password-protected editor, delete confirmation |
 | **Maintenance** | Automatic 90-day record reset |
 | **Integration** | Barcode scanner and card reader (acting as keyboard input), Outlook email |
+
+## Built With Excel VBA
+
+This entire system was developed using **Microsoft Excel VBA (Visual Basic for Applications)**. No external software or paid tools were needed, so it could run on the existing factory computers.
+
+![image alt](https://github.com/cheongchoonsing1234-commits/Battery-Cell-Supermarket-Digitalization/blob/main/Images/VBA.webp?raw=true)
+
+*The VBA project: UserForms for each function, class modules for reusable UI components, and worksheets acting as the database.*
+
+**What VBA was used for:**
+- **UserForms:** the Dashboard, Withdraw, Return, Replenish, Edit and Records screens
+- **Class modules:** reusable sidebar buttons and a draggable window surface
+- **Worksheets as a database:** storing stock, min/max settings and transaction records
+- **Chart automation:** redrawing and colouring the stock bars after every transaction
+- **Validation and automation:** input checks, password protection, FIFO colour sequence, and the automatic 90-day record reset
 
 ## Hardware Setup
 
