@@ -19,7 +19,7 @@
 8. [Hardware Setup](#hardware-setup)
 9. [How to Run the Demo](#how-to-run-the-demo)
 10. [My Role](#my-role)
-11. [Lessons Learned & Future Improvements](#lessons-learned--future-improvements)
+11. [Lessons Learned](#lessons-learned)
 
 ---
 
@@ -272,7 +272,7 @@ This entire system was developed using **Microsoft Excel VBA (Visual Basic for A
 - Tested with users and fixed issues
 - Prepared documentation and trained the team
 
-## Lessons Learned & Future Improvements
+## Lessons Learned
 - Move from Excel to a proper database (SQL) for multi-user access
 - Add automatic low-stock alerts to a phone or Teams
 - Build a web version so stock can be seen from anywhere
